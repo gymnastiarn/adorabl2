@@ -3,3 +3,8 @@ pandas
 matplotlib
 Sastrawi
 openpyxl
+wordcloud 
+nltk
+scikit-learn
+XlsxWriter
+gensim
