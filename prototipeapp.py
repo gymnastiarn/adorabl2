@@ -362,5 +362,5 @@ def main():
             st.success("Logout berhasil.")
             st.experimental_rerun()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
